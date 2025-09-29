@@ -1,39 +1,21 @@
-# 👋 Hi there, I'm **Marius**
+# 👋 Hi there! I'm Vought
 
-🚀 **I am a professional Web, Pawn and C++ Developer**  
-Passionate about building modern applications, game modes, and innovative web solutions.  
+I'm a full-stack software developer with a passion for building cool projects and diving into the world of reverse engineering.
 
----
+## 🛠️ My Skillset
 
-## 🛠️ Tech Stack
-- 🌐 Web: HTML, CSS, JavaScript, Node.js, **React (TypeScript, Full-Stack)**  
-- 🎮 Pawn: SA:MP / OMP Gamemode Development  
-- 🎮 RAGE:MP: JavaScript / TypeScript Server Development  
-- ⚙️ C++: High-performance systems & tools  
+[![My Skills](https://skillicons.dev/icons?i=apple,cpp,cs,docker,go,html,javascript,laravel,linux,nextjs,nodejs,python,react,windows)](https://skillicons.dev)
+*   ...and I also enjoy exploring the intricacies of reverse engineering!
 
----
+## 🌐 My Domains
+I own the following domains:
+-   `raysen.ro` (My primary website, currently under active development 🚧)
 
-## 🏷️ Skills & Stats
+## 🚀 What I'm Up To
+-   🌱 I’m always learning, exploring new technologies, and currently deepening my knowledge in **cybersecurity**.
+-   💡 My primary interest lies in the field of **cybersecurity**. I'm fascinated by Reverse Engineering
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mar1usdev&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mar1usdev&layout=compact&theme=radical)  
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mar1usdev&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/mar1usdev)
-
----
-
-## 🌟 Featured Projects
-- 🎯 **Web Development** – Modern, responsive and optimized web apps  
-- 🕹️ **Pawn Gamemodes** – Custom game modes for SA:MP & OMP  
-- 🕹️ **RAGE:MP Development** – Scripts & gamemodes in JavaScript / TypeScript  
-- ⚡ **C++ Tools** – High-performance systems and utilities  
-- ⚛️ **React + TypeScript (Full Stack)** – Scalable apps with modern frontend & backend  
-
----
-
-## 📫 Connect with me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5WKMVtraRJ)  
-
----
-
-⭐ *"Code is like magic – the more you practice, the more powerful it becomes."*  
+## 📫 How to Reach Me:
+-   Discord: voughtofficial
+-   Email: voughtdev@proton.me
