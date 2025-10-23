@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Vought
+# 👋 Hi there! I'm Zypher
 
 I'm a full-stack software developer with a passion for building cool projects and diving into the world of reverse engineering.
 
@@ -17,5 +17,5 @@ I own the following domains:
 
 
 ## 📫 How to Reach Me:
--   Discord: voughtofficial
--   Email: voughtdev@proton.me
+-   Discord: zypher.sec
+-   Email: contact@backcode.ro
