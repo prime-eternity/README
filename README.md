@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm wh1mp1337
+# 👋 Hi there! I'm eternity
 
 I'm a full-stack software developer with a passion for building cool projects and diving into the world of reverse engineering.
 
@@ -17,5 +17,5 @@ I own the following domains:
 
 
 ## 📫 How to Reach Me:
--   Discord: wh1mp1337
+-   Discord: prime.eternity
 -   Email: contact@backcode.ro
