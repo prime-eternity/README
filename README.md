@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm eternity
+# 👋 Hi there! I'm Stefaη
 
 I'm a full-stack software developer with a passion for building cool projects and diving into the world of reverse engineering.
 
@@ -17,5 +17,5 @@ I own the following domains:
 
 
 ## 📫 How to Reach Me:
--   Discord: prime.eternity
+-   Discord: easy_stefan
 -   Email: contact@backcode.ro
